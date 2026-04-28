@@ -31,8 +31,8 @@ The game is built on a custom **Entity-Component-System (ECS)** framework with a
 │  │ Contact     │        │                       │
 │  │ AI          │  ┌─────▼──────────────────┐    │
 │  └─────────────┘  │ RemoteEventManager     │    │
-│                    │ (Firebase pub/sub)    │    │
-│                    └───────────────────────┘    │
+│                   │ (Firebase pub/sub)     │    │
+│                   └────────────────────────┘    │
 └─────────────────────────────────────────────────┘
 ```
 
